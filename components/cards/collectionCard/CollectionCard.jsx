@@ -10,13 +10,13 @@ function CollectionCard({ src, title, reviews, price }) {
       <div className="collection__text-area">
         <h5 className="collection__tittle">{title}</h5>
         <div className="collection__card-footer">
-          <div className="collection__rating-holder">
+          {/* <div className="collection__rating-holder">
             <span className="fa fa-star collection__rating collection__rating--checked"></span>
             <span className="fa fa-star collection__rating collection__rating--checked"></span>
             <span className="fa fa-star collection__rating "></span>
             <span className="fa fa-star collection__rating "></span>
             <span className="fa fa-star collection__rating "></span>
-          </div>
+          </div> */}
           <p className="collection__review">(5 Reviews)</p>
           <p className="collection__price">${price}</p>
         </div>

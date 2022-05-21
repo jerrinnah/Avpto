@@ -5,11 +5,12 @@ function Hero() {
   return (
     <div>
       <section className="hero">
+        <div className="hero__content">
         <div className="hero__image-holder">
           <img
             className="hero__image"
             src="/assets/images/kindpng_42128.png"
-            alt="boy image"
+            alt="hero image"
           />
         </div>
         <div className="hero__text-container">
@@ -37,6 +38,7 @@ function Hero() {
             </div>
           </div>
           <Button color='#f3753b' text='Order Now'/>
+        </div>
         </div>
       </section>
     </div>

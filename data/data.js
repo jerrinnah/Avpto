@@ -110,9 +110,9 @@ export const offersData = [];
 export const newArrivalData = [
   {
     id: 1,
-    image: { src: "https://5.imimg.com/data5/OW/XQ/MY-5240844/italian-leather-belt-500x500.jpg", alt: "" },
+    image: { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgf1NE94ljEM8GYGktv6Onwy4lIuCv-xw9exYnqYA-EUGDqGANUna0u7TuJpNHLbyoIw&usqp=CAU", alt: "" },
     title: "T-Shirt",
-    price: "2300",
+    price: "2200",
   },
   {
     id: 2,
@@ -130,7 +130,7 @@ export const newArrivalData = [
     id: 4,
     image: { src: "https://res.garmin.com/en/products/010-02410-10/v/cf-lg-90c3d106-4455-4164-96e2-24a38eb5493a.jpg", alt: "" },
     title: "Watch",
-    price: "2300",
+    price: "23090",
   },
 
  

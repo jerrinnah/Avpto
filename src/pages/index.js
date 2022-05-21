@@ -22,7 +22,7 @@ export default function Home() {
       <Arrivals/>
       <Blog/>
       <Benefits/>
-      <Footer/>
+      {/* <Footer/> */}
 
      
      
